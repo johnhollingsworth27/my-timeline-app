@@ -13,6 +13,8 @@ import Node from './Components/routes/Node';
 import AboutWho from './Components/routes/AboutWho';
 import OurValues from './Components/routes/OurValues';
 import WebDev from './Components/routes/WebDev';
+import USpage from './Components/Pages/Countries/US';
+import ChinaPage from './Components/Pages/Countries/China';
 
 const App = () => {
   return (
@@ -21,6 +23,9 @@ const App = () => {
         <Route path="/" element={<LandingPage />} />
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          <Route path="unitedstates"index element={<USpage />} />
+
+          <Route path="china"index element={<ChinaPage />} />
           <Route path="about" element={<About />} />
           <Route path="services" element={<Services />} />
           <Route path="web-design" element={<WebDesign />} />

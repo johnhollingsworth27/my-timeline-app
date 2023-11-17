@@ -35,7 +35,7 @@ export const menuItems = [
         submenu: [
           {
             title: 'China',
-            url: 'frontend',
+            url: 'china',
           },
           {
             title: 'India',
@@ -133,7 +133,7 @@ export const menuItems = [
           },
           {
             title: 'United States',
-            url: 'frontend',
+            url: 'unitedstates',
           },
         ],
       },
