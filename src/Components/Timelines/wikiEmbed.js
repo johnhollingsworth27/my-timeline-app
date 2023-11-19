@@ -1,18 +1,18 @@
 import React from 'react';
 import '../../Timeline2.css';
 
-const UShistory = () => {
+const wikiEmbed = () => {
     return (
         <div className="timeline-container">
 
             <div>
-                <h1>History of China</h1>
+                <h1>Title for embed content</h1>
             </div>
             <div className="timeline-item">
 
                 <iframe
                     className="timeline-iframe"
-                    src="https://time.graphics/embed?v=1&id=104143"                    
+                    src="https://en.wikipedia.org/wiki/Timeline_of_Western_philosophers"                    
                     allowFullScreen
                     title="Embedded Timeline"
                 ></iframe>
@@ -21,4 +21,4 @@ const UShistory = () => {
     );
 };
 
-export default UShistory;
+export default wikiEmbed;

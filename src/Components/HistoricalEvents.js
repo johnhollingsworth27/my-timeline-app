@@ -48,8 +48,8 @@ const HistoricalEvents = () => {
   };
 
   return (
-    <div style={{ marginLeft: '1.5in', marginRight: '1in' }}>
-    <h1>Search Historical Events</h1>
+    <div style={{ marginLeft: '0in', marginRight: '1in' }}>
+    <h2>Search Historical Events</h2>
       <form onSubmit={handleSearch}>
         <input 
           type="text" 

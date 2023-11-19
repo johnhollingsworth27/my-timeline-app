@@ -17,6 +17,9 @@ const Intro = () => (
             <Image src='/time2.png' />
         </Grid.Column>
     </Grid>
+
+    
+    
 )
 
 export default Intro;

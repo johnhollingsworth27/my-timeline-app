@@ -3,6 +3,7 @@ import '../../home.css';
 import ListExampleBulleted from '../List';
 import Intro from '../Intro';
 import GridExampleEqualWidthRow from '../Grid';
+import HistoricalEvents from '../HistoricalEvents';
 
 const Home = () => {
     return (
@@ -18,8 +19,11 @@ const Home = () => {
                 </p>
             </section> */}
             <br />
-            <h1>Quotes on History</h1>
+            <h2>Quotes on History</h2>
             <GridExampleEqualWidthRow />
+            <br />
+            <br />
+            <HistoricalEvents />
         </>
     );
 };

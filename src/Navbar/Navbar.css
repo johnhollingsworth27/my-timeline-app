@@ -13,6 +13,7 @@
 /* Container for the content inside the navbar */
 .navbar-content {
     width: 100%;
+    
     padding: 0.5rem 1in;
     display: flex;
     justify-content: space-between;
@@ -88,4 +89,47 @@
 
 .dropdown-item:hover .nested-dropdown-content {
     display: block;
+}
+
+
+
+/*///////////////////////////////////////
+/* Reuse styles from .navbar for .footer */
+.footer {
+  position: relative; /* Change from sticky to relative */
+  bottom: 0;
+  height: 80px;
+  z-index: 5;
+  background-color: #1b1a1a !important;
+
+}
+
+.footer-content {
+  width: 100%;
+  padding: 0.5rem 1.5in;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-title {
+  font-size: 1.2rem; /* Adjust size as needed */
+  color: white;
+
+}
+
+/* Style for footer links */
+.footer-links {
+  display: flex;
+  gap: 10px; /* Small gap between the dropdowns */
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px; /* Space between links */
+}
+
+.footer-link:hover {
+  text-decoration: underline; /* or any other hover effect */
 }

@@ -45,70 +45,73 @@ import DailyLifeCustoms from './Components/Pages/Thematic/Cultural/DailyLifeCust
 import ReligionBeliefs from './Components/Pages/Thematic/Cultural/ReligionBeliefs';
 import Europe from './Components/Pages/Geographical/Europe';
 import Philosophy from './Components/Pages/Thematic/Cultural/Philosophy';
-
+import Footer from './Components/Footer';
 const App = () => {
   return (
     <>
+
       <Routes>
         <Route path="/" element={<Layout />}>
+
           <Route index element={<Home />} />
           <Route path="*" element={<p>Not found!</p>} />
-          <Route path="artistsComposers"index element={<ArtistsComposers />} />
-          <Route path= "leadersPoliticians" index element={<LeadersPoliticians />} />  
-          <Route path= "scientistsInventors" index element={<ScientistsInventors />} />  
-          <Route path= "philoThinkers" index element={<PhilosophersThinkers />} />  
-         
-          <Route path= "classicalAntiquity" index element={<ClassicalAntiquity />} />  
-          <Route path= "earlyCivilizations" index element={<EarlyCivilizations />} />  
-          <Route path= "earlyCivilizations" index element={<EarlyCivilizations />} />  
-          <Route path= "20thCentury" index element={<TwentiethCentury />} />  
-          <Route path= "21stCentury" index element={<TwentyFirstCentury />} />  
-         
-          <Route path= "earlyMiddleAges" index element={<EarlyMiddleAges />} />  
-          <Route path= "highMiddleAges" index element={<HighMiddleAges />} />  
-          <Route path= "lateMiddleAges" index element={<LateMiddleAges />} />  
+          <Route path="artistsComposers" index element={<ArtistsComposers />} />
+          <Route path="leadersPoliticians" index element={<LeadersPoliticians />} />
+          <Route path="scientistsInventors" index element={<ScientistsInventors />} />
+          <Route path="philoThinkers" index element={<PhilosophersThinkers />} />
 
-          <Route path= "earlyModernPeriod" index element={<EarlyModern />} />  
-          <Route path= "lateModernPeriod" index element={<LateModern />} /> 
+          <Route path="classicalAntiquity" index element={<ClassicalAntiquity />} />
+          <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
+          <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
+          <Route path="20thCentury" index element={<TwentiethCentury />} />
+          <Route path="21stCentury" index element={<TwentyFirstCentury />} />
 
-          <Route path= "mesolithic" index element={<Mesolithic />} />  
-          <Route path= "neolithic" index element={<Neolithic />} />  
-          <Route path= "paleolithic" index element={<Paleolithic />} />  
+          <Route path="earlyMiddleAges" index element={<EarlyMiddleAges />} />
+          <Route path="highMiddleAges" index element={<HighMiddleAges />} />
+          <Route path="lateMiddleAges" index element={<LateMiddleAges />} />
 
-          <Route path= "booksArticles" index element={<BooksArticles />} />  
-          <Route path= "timelinesMaps" index element={<TimelinesMaps />} />  
-          <Route path= "videosPodcasts" index element={<VideosPodcasts />} />  
+          <Route path="earlyModernPeriod" index element={<EarlyModern />} />
+          <Route path="lateModernPeriod" index element={<LateModern />} />
 
-          <Route path= "africa" index element={<Africa />} />  
-          <Route path= "asia" index element={<Asia />} /> 
-          <Route path= "europe" index element={<Europe />} />  
-          <Route path= "northAmerica" index element={<NorthAmerica />} />  
-          <Route path= "southAmerica" index element={<SouthAmerica />} />  
-          <Route path= "oceana" index element={<Oceana />} />  
-          <Route path= "polarRegions" index element={<PolarRegions />} />  
+          <Route path="mesolithic" index element={<Mesolithic />} />
+          <Route path="neolithic" index element={<Neolithic />} />
+          <Route path="paleolithic" index element={<Paleolithic />} />
 
-          <Route path= "artLiteratureMusic" index element={<ArtLitMusic />} />  
-          <Route path= "dailyLifeCustoms" index element={<DailyLifeCustoms />} />  
-          <Route path= "religionBeliefs" index element={<ReligionBeliefs />} />  
-          <Route path= "philosophy" index element={<Philosophy />} />  
+          <Route path="booksArticles" index element={<BooksArticles />} />
+          <Route path="timelinesMaps" index element={<TimelinesMaps />} />
+          <Route path="videosPodcasts" index element={<VideosPodcasts />} />
 
-          <Route path= "theoriesSystems" index element={<EconomicTheories />} />  
-          <Route path= "tradeCommerce" index element={<TradeCommerce />} />  
-          <Route path= "industrialDevelopments" index element={<IndustrialDev />} />  
+          <Route path="africa" index element={<Africa />} />
+          <Route path="asia" index element={<Asia />} />
+          <Route path="europe" index element={<Europe />} />
+          <Route path="northAmerica" index element={<NorthAmerica />} />
+          <Route path="southAmerica" index element={<SouthAmerica />} />
+          <Route path="oceana" index element={<Oceana />} />
+          <Route path="polarRegions" index element={<PolarRegions />} />
 
-          <Route path= "climateGeography" index element={<ClimateGeography />} />  
-          <Route path= "humanImpact" index element={<HumanImpact />} />  
-          <Route path= "naturalDisasters" index element={<NaturalDisasters />} />  
+          <Route path="artLiteratureMusic" index element={<ArtLitMusic />} />
+          <Route path="dailyLifeCustoms" index element={<DailyLifeCustoms />} />
+          <Route path="religionBeliefs" index element={<ReligionBeliefs />} />
+          <Route path="philosophy" index element={<Philosophy />} />
 
-          <Route path= "empiresKingdoms" index element={<EmpiresKingdoms />} />  
-          <Route path= "treatiesDiplomacy" index element={<TreatiesDiplomacy />} />  
-          <Route path= "warsConflicts" index element={<WarsConflicts />} />  
+          <Route path="theoriesSystems" index element={<EconomicTheories />} />
+          <Route path="tradeCommerce" index element={<TradeCommerce />} />
+          <Route path="industrialDevelopments" index element={<IndustrialDev />} />
 
-          <Route path= "inventionsDiscoveries" index element={<InventionsDiscoveries />} />  
-          <Route path= "scientificMovements" index element={<ScientificMovements />} />  
-          <Route path= "technologicalAdvancements" index element={<Technological />} /> 
+          <Route path="climateGeography" index element={<ClimateGeography />} />
+          <Route path="humanImpact" index element={<HumanImpact />} />
+          <Route path="naturalDisasters" index element={<NaturalDisasters />} />
+
+          <Route path="empiresKingdoms" index element={<EmpiresKingdoms />} />
+          <Route path="treatiesDiplomacy" index element={<TreatiesDiplomacy />} />
+          <Route path="warsConflicts" index element={<WarsConflicts />} />
+
+          <Route path="inventionsDiscoveries" index element={<InventionsDiscoveries />} />
+          <Route path="scientificMovements" index element={<ScientificMovements />} />
+          <Route path="technologicalAdvancements" index element={<Technological />} />
         </Route>
       </Routes>
+      <Footer />
     </>
   );
 };
