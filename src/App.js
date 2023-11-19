@@ -106,9 +106,7 @@ const App = () => {
 
           <Route path= "inventionsDiscoveries" index element={<InventionsDiscoveries />} />  
           <Route path= "scientificMovements" index element={<ScientificMovements />} />  
-          <Route path= "technologicalAdvancements" index element={<Technological />} />  
-
-
+          <Route path= "technologicalAdvancements" index element={<Technological />} /> 
         </Route>
       </Routes>
     </>
