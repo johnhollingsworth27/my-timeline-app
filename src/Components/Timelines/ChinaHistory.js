@@ -12,7 +12,8 @@ const UShistory = () => {
 
                 <iframe
                     className="timeline-iframe"
-                    src="https://time.graphics/embed?v=1&id=104143"                    allowFullScreen
+                    src="https://time.graphics/embed?v=1&id=104143"                    
+                    allowFullScreen
                     title="Embedded Timeline"
                 ></iframe>
             </div>

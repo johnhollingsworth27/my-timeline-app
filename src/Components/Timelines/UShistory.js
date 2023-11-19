@@ -6,18 +6,19 @@ const UShistory = () => {
         <div className="timeline-container">
 
             <div>
-                <h1>History of The United States</h1>
+                <h1>Chronology of U.S. Presidents, Key Political Events, and Conflicts</h1>
             </div>
             <div className="timeline-item">
 
                 <iframe
                     className="timeline-iframe"
-                    src="https://time.graphics/embed?v=1&id=44548"                    frameBorder="0"
+                    src="https://time.graphics/embed?v=1&id=44548"frameBorder="0"
                     allowFullScreen
                     title="Embedded Timeline"
                 ></iframe>
             </div>
         </div>
+        
     );
 };
 

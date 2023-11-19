@@ -1,16 +1,14 @@
 /* Timeline.css */
 .timeline-container {
-    
     white-space: nowrap;
     margin: 0 0in;
   }
   
   .timeline-item {
     display: inline-block;
-    width: 100%; /* This sets the width to the full width of the screen minus 1 inch */
+    width: 100%; 
     border-radius: 4px;
     text-align: center;
-
   }
   
   .timeline-item-content {

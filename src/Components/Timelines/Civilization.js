@@ -3,10 +3,11 @@ import '../../Timeline2.css';
 
 const Civilization = () => {
     return (
+        
         <div className="timeline-container">
 
             <div>
-                <h1>History of Human Civilization</h1>
+                <h1>Human Civilization</h1>
             </div>
             <div className="timeline-item">
 

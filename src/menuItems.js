@@ -1,318 +1,275 @@
 export const menuItems = [
   {
-    title: 'Countries',
-    url: '/services',
-    submenu: [
-      {
-        title: 'Africa',
-        url: 'web-design',
-        submenu: [
-          {
-            title: 'Algeria',
-            url: 'frontend',
-          },
-          {
-            title: 'DRC',
-            url: 'frontend',
-          },
-          {
-            title: 'Libya',
-            url: 'frontend',
-          },
-          {
-            title: 'South Africa',
-            url: 'frontend',
-          },
-          {
-            title: 'Sudan',
-            url: 'frontend',
-          },
-        ],
-      },
-      {
-        title: 'Asia',
-        url: 'web-dev',
-        submenu: [
-          {
-            title: 'China',
-            url: 'china',
-          },
-          {
-            title: 'India',
-            url: 'frontend',
-          },
-          {
-            title: 'Japan',
-            url: 'frontend',
-          },
-          {
-            title: 'Korea',
-            url: 'frontend',
-          },
-        ],
-      },
-      {
-        title: 'Europe',
-        url: 'seo',
-        submenu: [
-          {
-            title: 'France',
-            url: 'frontend',
-          },
-          {
-            title: 'Germany',
-            url: 'frontend',
-          },
-          {
-            title: 'UK',
-            url: 'frontend',
-          },
-          {
-            title: 'Italy',
-            url: 'frontend',
-          },
-        ],
-      },
-      {
-        title: 'Middle East',
-        url: 'web-design',
-        submenu: [
-          {
-            title: 'Afganistan',
-            url: 'frontend',
-          },
-          {
-            title: 'Egypt',
-            url: 'frontend',
-          },
-          {
-            title: 'Iran',
-            url: 'frontend',
-          },
-          {
-            title: 'Irag',
-            url: 'frontend',
-          },
-          {
-            title: 'Israel',
-            url: 'frontend',
-          },
-          {
-            title: 'Saudi Arabia',
-            url: 'frontend',
-          },
-          {
-            title: 'Syria',
-            url: 'frontend',
-          },
-          {
-            title: 'Palestine',
-            url: 'frontend',
-          },
-          {
-            title: 'Turkey',
-            url: 'frontend',
-          },
-          {
-            title: 'UAE',
-            url: 'frontend',
-          },
-        ],
-      },
-      {
-        title: 'North America',
-        url: 'web-design',
-        submenu: [
-          {
-            title: 'Canada',
-            url: 'frontend',
-          },
-          {
-            title: 'Mexico',
-            url: 'frontend',
-          },
-          {
-            title: 'United States',
-            url: 'unitedstates',
-          },
-        ],
-      },
-      {
-        title: 'South America',
-        url: 'web-design',
-        submenu: [
-          {
-            title: 'Argentina',
-            url: 'frontend',
-          },
-          {
-            title: 'Brazil',
-            url: 'frontend',
-          },
-          {
-            title: 'Chile',
-            url: 'frontend',
-          },
-          {
-            title: 'Colombia',
-            url: 'frontend',
-          },
-          {
-            title: 'Cuba',
-            url: 'frontend',
-          },
-          {
-            title: 'Peru',
-            url: 'frontend',
-          },
-          {
-            title: 'Venezuela',
-            url: 'frontend',
-          },
-        ],
-      },
-    ],
-  },
-
-
-
-
-
-
-  {
-    title: 'Culture',
-    url: '/services',
-    submenu: [
-      {
-        title: 'Art',
-        url: 'web-design',
-      },
-      {
-        title: 'Philosophy',
-        url: 'web-dev',
-        submenu: [
-          {
-            title: 'Frontend',
-            url: 'frontend',
-          },
-          {
-            title: 'Backend',
-            submenu: [
-              {
-                title: 'NodeJS',
-                url: 'node',
-              },
-              {
-                title: 'PHP',
-                url: 'php',
-              },
-            ],
-          },
-        ],
-      },
-      {
-        title: 'Religion',
-        url: 'seo',
-      },
-    ],
-  },
-
-
-
-
-
-
-
-  {
-    title: 'Eras',
-    url: '/services',
+    title: 'Chronological',
+    url: '/chronological',
     submenu: [
       {
         title: 'Prehistoric',
-        url: 'web-design',
-      },
-      {
-        title: 'Ancient',
-        url: 'web-dev',
+        url: 'prehistoric',
         submenu: [
           {
-            title: 'Frontend',
-            url: 'frontend',
+            title: 'Paleolithic',
+            url: 'paleolithic',
           },
           {
-            title: 'Backend',
-            submenu: [
-              {
-                title: 'NodeJS',
-                url: 'node',
-              },
-              {
-                title: 'PHP',
-                url: 'php',
-              },
-            ],
+            title: 'Mesolithic',
+            url: 'mesolithic',
+          },
+          {
+            title: 'Neolithic',
+            url: 'neolithic',
           },
         ],
       },
       {
-        title: 'Post Classical',
-        url: 'seo',
+        title: 'Ancient History',
+        url: 'ancientHistory',
+        submenu: [
+          {
+            title: 'Early Civilizations',
+            url: 'earlyCivilizations',
+          },
+          {
+            title: 'Classical Antiquity',
+            url: 'classicalAntiquity',
+          },
+        ],
       },
       {
-        title: 'Early Modern',
-        url: 'seo',
+        title: 'Medieval History',
+        url: 'medievalHistory',
+        submenu: [
+          {
+            title: 'Early Middle Ages',
+            url: 'earlyMiddleAges',
+          },
+          {
+            title: 'High Middle Ages',
+            url: 'highMiddleAges',
+          },
+          {
+            title: 'Late Middle Ages',
+            url: 'lateMiddleAges',
+          },
+        ],
       },
       {
-        title: 'Modern',
-        url: 'seo',
+        title: 'Modern History',
+        url: 'modernHistory',
+        submenu: [
+          {
+            title: 'Early Modern Period',
+            url: 'earlyModernPeriod',
+          },
+          {
+            title: 'Late Modern Period',
+            url: 'lateModernPeriod',
+          },
+        ],
+      },
+      {
+        title: 'Contemporary History',
+        url: 'contemporaryHistory',
+        submenu: [
+          {
+            title: '20th Century',
+            url: '20thCentury',
+          },
+          {
+            title: '21st Century',
+            url: '21stCentury',
+          },
+        ],
       },
     ],
   },
 
 
 
-
-
-
-
-
-
-
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////
   {
-    title: 'Geopolitics',
-    url: '/services',
+    title: 'Geographical',
+    url: 'geographical',
     submenu: [
       {
-        title: 'Economics',
-        url: 'web-design',
+        title: 'Africa',
+        url: 'africa',
       },
       {
-        title: 'War',
-        url: 'web-dev',
-        submenu: [
-          {
-            title: 'Frontend',
-            url: 'frontend',
-          },
-          {
-            title: 'Backend',
-            submenu: [
-              {
-                title: 'NodeJS',
-                url: 'node',
-              },
-              {
-                title: 'PHP',
-                url: 'php',
-              },
-            ],
-          },
-        ],
+        title: 'Asia',
+        url: 'asia',
       },
       {
-        title: 'World History',
-        url: 'seo',
+        title: 'Europe',
+        url: 'europe',
+      },
+      {
+        title: 'North America',
+        url: 'northAmerica',
+      },
+      {
+        title: 'South America',
+        url: 'southAmerica',
+      },
+      {
+        title: 'Oceana',
+        url: 'oceana',
+      },
+      {
+        title: 'Polar Regions',
+        url: 'polarRegions',
       },
     ],
   },
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+{
+  title: 'Thematic',
+    url: '/thematic',
+      submenu: [
+        {
+          title: 'Political',
+          url: 'political',
+          submenu: [
+            {
+              title: 'Empires and Kingdoms',
+              url: 'empiresKingdoms',
+            },
+            {
+              title: 'Wars and Conflicts',
+              url: 'warsConflicts',
+            },
+            {
+              title: 'Treaties and Diplomacy',
+              url: 'treatiesDiplomacy',
+            },
+          ],
+        },
+        {
+          title: 'Cultural',
+          url: 'cultural',
+          submenu: [
+            {
+              title: 'Daily Life and Customs',
+              url: 'dailyLifeCustoms',
+            },
+            {
+              title: 'Religion and Beliefs',
+              url: 'religionBeliefs',
+            },
+            {
+              title: 'Art, Literature, Music',
+              url: 'artLiteratureMusic',
+            },
+            {
+              title: 'Philosophy',
+              url: 'philosophy',
+            },
+          ],
+        },
+        {
+          title: 'Economic',
+          url: 'economic',
+          submenu: [
+            {
+              title: 'Trade and Commerce',
+              url: 'tradeCommerce',
+            },
+            {
+              title: 'Industrial Developments',
+              url: 'industrialDevelopments',
+            },
+            {
+              title: 'Economic Theories and Systems',
+              url: 'theoriesSystems',
+            },
+          ],
+        },
+        {
+          title: 'Science and Technology',
+          url: 'scienceTech',
+          submenu: [
+            {
+              title: 'Inventions and Discoveries',
+              url: 'inventionsDiscoveries',
+            },
+            {
+              title: 'Scientific Movements',
+              url: 'scientificMovements',
+            },
+            {
+              title: 'Technological Advancements',
+              url: 'technologicalAdvancements',
+            },
+          ],
+        },
+        {
+          title: 'Environmental',
+          url: 'environmental',
+          submenu: [
+            {
+              title: 'Natural Disasters',
+              url: 'naturalDisasters',
+            },
+            {
+              title: 'Climate and Geography',
+              url: 'climateGeography',
+            },
+            {
+              title: 'Human Impact on Environment',
+              url: 'humanImpactEnvironment',
+            },
+          ],
+        },
+      ],
+  },
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+{
+  title: 'Biographical',
+    url: '/biographical',
+      submenu: [
+        {
+          title: 'Leaders and Politicians',
+          url: 'leadersPoliticians',
+        },
+        {
+          title: 'Scientists and Inventors',
+          url: 'scientistsInventors',
+        },
+        {
+          title: 'Philosophers and Thinkers',
+          url: 'philoThinkers',
+        },
+        {
+          title: 'Artists and Composers',
+          url: 'artistsComposers',
+        },
+      ],
+  },
+
+
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////
+  {
+    title: 'Educational',
+      url: '/educational',
+        submenu: [
+          {
+            title: 'Timelines and Maps',
+            url: 'timelinesMaps',
+          },
+          {
+            title: 'Videos and Podcasts',
+            url: 'videosPodcasts',
+          },
+          {
+            title: 'Books and Articles',
+            url: 'booksArticles',
+          },
+        ],
+    },
 ];
