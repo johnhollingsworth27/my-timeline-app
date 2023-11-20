@@ -1,18 +1,17 @@
 import React from 'react';
 import '../../../../Timeline2.css';
 
-const ClassicalAntiquity = () => {
+const TwentyFirstCentury = () => {
     return (
         <>
             <div className="timeline-container">
                 <div>
-                    <h1>Classical Antiquity: 800 bce - 475 ce</h1>
+                    <h1>LTwenty First Century: 1990 - 2023</h1>
                 </div>
                 <div className="timeline-item">
-
                     <iframe
                         className="timeline-iframe"
-                        src="https://time.graphics/embed?v=1&id=858589"                     
+                        src="https://time.graphics/embed?v=1&id=858613" 
                         title="Embedded Timeline"
                     ></iframe>
                     <br />
@@ -22,4 +21,4 @@ const ClassicalAntiquity = () => {
     );
 };
 
-export default ClassicalAntiquity;
+export default TwentyFirstCentury;

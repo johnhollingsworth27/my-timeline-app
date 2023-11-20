@@ -73,11 +73,11 @@ export const menuItems = [
         submenu: [
           {
             title: '20th Century',
-            url: '20thCentury',
+            url: 'twentiethCentury',
           },
           {
             title: '21st Century',
-            url: '21stCentury',
+            url: 'twentyFirstCentury',
           },
         ],
       },

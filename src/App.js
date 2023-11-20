@@ -9,8 +9,8 @@ import ScientistsInventors from './Components/Pages/Biographical/ScientistsInven
 import PhilosophersThinkers from './Components/Pages/Biographical/PhilosophersThinkers';
 import ClassicalAntiquity from './Components/Pages/Chronological/Ancient/ClassicalAntiquity';
 import EarlyCivilizations from './Components/Pages/Chronological/Ancient/EarlyCivilizations';
-import TwentiethCentury from './Components/Pages/Chronological/Contemporary/20thCentury';
-import TwentyFirstCentury from './Components/Pages/Chronological/Contemporary/21stCentury';
+import TwentiethCentury from './Components/Pages/Chronological/Contemporary/TwentiethCentury';
+import TwentyFirstCentury from './Components/Pages/Chronological/Contemporary/TwentyFirstCentury';
 import EarlyMiddleAges from './Components/Pages/Chronological/Medieval/EarlyMiddleAges';
 import HighMiddleAges from './Components/Pages/Chronological/Medieval/HighMiddleAges';
 import LateMiddleAges from './Components/Pages/Chronological/Medieval/LateMiddleAges';
@@ -63,8 +63,8 @@ const App = () => {
           <Route path="classicalAntiquity" index element={<ClassicalAntiquity />} />
           <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
           <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
-          <Route path="20thCentury" index element={<TwentiethCentury />} />
-          <Route path="21stCentury" index element={<TwentyFirstCentury />} />
+          <Route path="twentiethCentury" index element={<TwentiethCentury />} />
+          <Route path="twentyFirstCentury" index element={<TwentyFirstCentury />} />
 
           <Route path="earlyMiddleAges" index element={<EarlyMiddleAges />} />
           <Route path="highMiddleAges" index element={<HighMiddleAges />} />

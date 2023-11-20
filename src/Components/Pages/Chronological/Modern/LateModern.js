@@ -1,20 +1,25 @@
 import React from 'react';
+import '../../../../Timeline2.css';
 
-const LateModern = () => {
+const LateModernPeriod = () => {
     return (
         <>
-            <section>
-                    <h1>
-                        <strong> Past Puzzles and Assembling History's Pieces</strong>
-                    </h1>
-                    <p>
-                        <strong>Discover How Each Historical Piece Fits in the Grand Scheme of Time</strong>
-                    </p>
-            </section>
-            <br />
+            <div className="timeline-container">
+                <div>
+                    <h1>Late Modern Period: 1700 - 1900</h1>
+                    <h2>1775 - 1900</h2>
+                </div>
+                <div className="timeline-item">
+                    <iframe
+                        className="timeline-iframe"
+                        src="https://time.graphics/embed?v=1&id=858595" 
+                        title="Embedded Timeline"
+                    ></iframe>
+                    <br />
+                </div>
+            </div>
         </>
-
     );
 };
 
-export default LateModern;
+export default LateModernPeriod;

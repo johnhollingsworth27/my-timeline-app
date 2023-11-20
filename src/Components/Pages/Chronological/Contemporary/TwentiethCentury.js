@@ -1,44 +1,41 @@
 import React from 'react';
 import '../../../../Timeline2.css';
 
-const Paleolithic = () => {
+const TwentiethCentury = () => {
     return (
         <>
             <div className="timeline-container">
                 <div>
-                    <h1>Paleolithic Era: 2.5 million bce - 10,000 bce</h1>
+                    <h1>20th Century</h1>
+                    <h2>1900 - 1950</h2>
                 </div>
                 <div className="timeline-item">
-
                     <iframe
                         className="timeline-iframe"
-                        src="https://time.graphics/embed?v=1&id=31869" frameBorder="0"
-                        allowFullScreen
+                        src="https://time.graphics/embed?v=1&id=858601"
                         title="Embedded Timeline"
                     ></iframe>
                     <br />
                 </div>
             </div>
+            <br />
             <div className="timeline-container">
-
                 <div>
-                    <h1>Fossil Records</h1>
+                    <h2>1950 - 2000</h2>
                 </div>
                 <div className="timeline-item">
-
                     <iframe
                         className="timeline-iframe"
-                        src="https://time.graphics/embed?v=1&id=179347"
-                        frameBorder="0"
-                        allowFullScreen
+                        src="https://time.graphics/embed?v=1&id=858598" 
                         title="Embedded Timeline"
                     ></iframe>
                     <br />
                 </div>
             </div>
-
         </>
     );
 };
 
-export default Paleolithic;
+export default TwentiethCentury;
+
+
