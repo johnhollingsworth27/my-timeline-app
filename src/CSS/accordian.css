@@ -1,0 +1,16 @@
+.accordion-title {
+    display: flex;
+    align-items: center;
+  }
+  
+  .fixed-width-icon {
+    width: 0px; /* Adjust as needed */
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .accordion-content {
+    padding: 30px;
+    
+  }
+  
