@@ -6,9 +6,8 @@
         "content": "Pythagoras is credited with discovering the mathematical ratios that correspond to musical intervals, laying the groundwork for the study of acoustics. His geometric work included studies on polygons, proportions, figures, and the Pythagorean Theorem.",
         "imageUrls": [
             "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagArt.jpeg",
-            "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagoras.jpeg",
-            "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagTheorem.png"
-        ]
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagoras.jpeg"
+                ]
     },
     {
         "title": "440 - 370 bce",
