@@ -46,7 +46,7 @@
         "title": "260 - 210 bce",
         "subtitle": "Archimedes",
         "fields": "Mathematics, Physics, Engineering, Geometry",
-        "content": "Archimedes develops methods for calculating areas and volumes, principles in fluid mechanics, concept of center of gravity, invention of Archimedes screw to raise water",
+        "content": "Archimedes develops methods for calculating areas and volumes, principles in fluid mechanics, concept of center of gravity, invention of Archimedes screw to raise water. He was also the first to calculate pi to 3.1418, an error of about 0.0002",
         "imageUrls": [
             "https://math-data.s3.us-east-2.amazonaws.com/Math/archimedesDraw.jpeg",
             "https://math-data.s3.us-east-2.amazonaws.com/Math/archimedes.webp",
@@ -70,8 +70,9 @@
         "fields": "Mathematics, Astronomy",
         "content": "Apollonius provides geometric foundations for later work on eclipses by Johannes Kepler with his work on \"Conics\" (ellipse, parabola, hyperbola)",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/apolloniusConic.png",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/ApolloniusStatue.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/apolloniusPaper.png"
         ]
     },
     {
@@ -80,18 +81,20 @@
         "fields": "Mathematics, Astronomy",
         "content": "Hipparchus discovers the precession of the equinoxes, and compiles the first known trigonometric table for solving triangles, founding trigonometry",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchusSketch.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchusPaper.jpeg"
         ]
     },
     {
         "title": "170",
         "subtitle": "Ptolemy",
         "fields": "Mathematics, Astronomy, Geography",
-        "content": "Ptolemy published \"Algamest\", a treatise on the apparent motions of stars and planetary paths. He provided a geocentric model of the universe which dominated astronomical thought for centuries.",
+        "content": "Ptolemy published \"Algamest\", a treatise on the apparent motions of stars and planetary paths. He provided a geocentric model of the universe which dominated astronomical thought for centuries. He calculated pi to 3.1416",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemyCosmo.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/PtolemyLawOfSines.jpg"
         ]
     },
     {
@@ -100,8 +103,9 @@
         "fields": "Mathematics, Algebra",
         "content": "Diophantus publishes \"Arithmetica\", a collection of algebraic problems dealing with polynomial equations and integer solutions. His work laid the foundations for the development of algebra and he is known as the \"father of algebra\".",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Diophantus-cover.png",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus-1.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantine_equations.jpg"
         ]
     },
     {
@@ -110,8 +114,10 @@
         "fields": "Mathematics, Astronomy",
         "content": "Aryabhata publishes \"Aryabhatiya\", where he introduced the concept of zero as a number and discussed the place-value system.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/aryabhataMath.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/AryabhataStatue.webp",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/AryabhatiyaPaper.jpeg"
+
         ]
     },
     {
@@ -120,8 +126,9 @@
         "fields": "Mathematics, Astronomy",
         "content": "Al-Khwarizmi writes \"The Compendious Book on Calculation by Completion and Balancing\", introducing the foundations of Algebra. He introduced algorithmic procedures, and the Hindu-Arabic numeral system, the global standard today for numerical representation.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Al-KhwarizmiAngles.jpeg.",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/al-khwarizmi_portrait.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Al-Khwarizmi2.webp"
         ]
     },
     {
@@ -130,8 +137,9 @@
         "fields": "Mathematics, Physics, Optics, Astronomy",
         "content": "Alhazen publishes \"Book of Optics\", laying the foundation for the modern science of optics. He studied the properties of light and vision, including reflection, refraction, and the behavior of lenses. He\"s among the first to use the scientific method and empirical evidence.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/AlhazenOptics.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/alhazen-portrait.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Alhazen3.jpeg"
         ]
     },
     {
@@ -140,8 +148,10 @@
         "fields": "Mathematics, Astronomy, Philosophy",
         "content": "Omar Khayyam publishes solutions to many cubics, with solutions limited to positive coefficients, lacking general solution",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/omarKhayyam-paper.png",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/OmarKhayyam.webp",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/OmarKhayyamAstro.png"
+            
         ]
     },
     {
@@ -150,8 +160,9 @@
         "fields": "Mathematics, Number Theory",
         "content": "Leonardo of Pisa (Fibonacci) spreads the Hindu-Arabic numeral system in Europe and discovers the Fibonacci sequence, which has applications in various fields of science and mathematics.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Fibonacci-sequence.webp",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Fibonacci-leonardo-pisa.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Fibonacci_spiral.svg"
         ]
     },
     {
@@ -160,8 +171,9 @@
         "fields": "Mathematics, Accounting",
         "content": "Luca Pacioli publishes \"Summa de Arithmetica\", concluding a solution to the cubic equation is impossible.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/pacioliBook.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Pacioli.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/pacioliShape.jpeg"
         ]
     },
     {
@@ -170,8 +182,8 @@
         "fields": "Mathematics, Algebra",
         "content": "Scipione del Ferro finds a method to reliably solve depressed cubics (a subset with no x squared term), tells no one but Antonio Maria Fior.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/ScipionedelFerro.jpeg"
+            
         ]
     },
     {
@@ -180,18 +192,9 @@
         "fields": "Mathematics, Algebra",
         "content": "Niccolo Fontana Tartaglia independently discovers the solution to the depressed cubic equation, publishes it in a cryptic poem.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
-        ]
-    },
-    {
-        "title": "1535",
-        "subtitle": "Antonio Maria Fior",
-        "fields": "Mathematics, Algebra",
-        "content": "Fior challenges Tartaglia to a math battle. Tartaglia solves all 30 of Fior\"s problems and sends back 30 problems of his own, which Fior can\"t solve.",
-        "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/tartaglia2.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/tartaglia.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/tartaglia's_triangle.svg"
         ]
     },
     {
@@ -200,8 +203,9 @@
         "fields": "Mathematics, Algebra, Medicine, Astrolgy",
         "content": "Gerolamo Cardano convinces Tartaglia to share the solution to the depressed cubic. He publishes \"Ars Magna\" and extends Tartaglia\"s method to solve all types of cubics, and Lodovico Ferrari\"s solution of the quartic equation. They coin the square roots of negative numbers as \"sophistic\" numbers.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/cardanoCubic.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/cardano.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/cardano3.png"
         ]
     },
     {
@@ -210,8 +214,8 @@
         "fields": "Mathematics, Algebra",
         "content": "Rafael Bombelli publishes that these imaginary numbers are actually useful in solving cubic equations. However, these numbers are still considered imaginary.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/bombelli1.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/bombelli2.jpeg"
         ]
     },
     {
@@ -220,8 +224,8 @@
         "fields": "Mathematics, Algebra",
         "content": "Francis Viete publishes \"In artem analyticam isagoge\", laying the foundation for algebraic notation using letters to represent known and unknown quantities.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/FrancisVietePaper.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Francois_Viete.jpeg"
         ]
     },
     {
@@ -230,8 +234,9 @@
         "fields": "Mathematics, Algebra, Geometry, Philosophy",
         "content": "Rene Descartes publishes \"La Geometrie\". He introduces (a, b, c, ...) to denote known quantities and (x, y, z, ...) for unknowns, and Cartesian Geometry which merged algebra and geometry by using algebraic methods to solve geometric problems.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/descartes.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/descartesMath.png",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/descartesPrinciples.jpeg"
         ]
     },
     {
@@ -240,8 +245,9 @@
         "fields": "Mathematics, Philosophy, Physics, Engineering, Politics",
         "content": "Gottfried Wilhelm Leibniz, along with Isaac Newton, is credited with developing calculus independently. He also made significant contributions to the field of logic and the binary number system, which is the foundation of virtually all digital computers.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/leibnizBernoulli.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/leibniz.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/leibniz3.png"
         ]
     },
     {
@@ -250,8 +256,9 @@
         "fields": "Mathematics, Physics, Astronomy, Theology",
         "content": "Isaac Newton develops calculus, formulates the three fundamental laws of motion, the law of universal gravitation, and develops a theory of color based on the observation that a prism decomposes white light into the colors of the visible spectrum.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
-            "/Math/archimedes.webp"
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/newtonPrism.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/newton.jpeg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/Newton_telescope.jpeg"
         ]
     },
     {
@@ -260,7 +267,7 @@
         "fields": "Mathematics, Physics",
         "content": "John Bernoulli introduces the term integral to describe the inverse operation of differentiation in calculus. He developed a principle that explains the behavior of fluid flow and is fundamental in aerodynamics and hydrodynamics. He was also instrumental in the early development and solutions of differential equations.",
         "imageUrls": [
-            "/Math/pythagoras.jpg",
+            "https://math-data.s3.us-east-2.amazonaws.com/Math/leibnizBernoulli.jpeg",
             "/Math/archimedes.webp"
         ]
     },

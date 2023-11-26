@@ -38,8 +38,8 @@ const AccordionExample = () => {
           >
             <div style={{ display: 'flex', justifyContent: 'center' }}>
               <div style={{ display: 'grid', gridTemplateColumns: '2in 2in 4in', gap: '20ch' }}>
-                <div>{section.title}</div>
                 <div>{section.subtitle}</div>
+                <div>{section.title}</div>
                 <div>{section.fields}</div> {/* Add the new field here */}
               </div>
             </div>
