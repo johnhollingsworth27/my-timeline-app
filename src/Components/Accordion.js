@@ -27,6 +27,18 @@ const AccordionExample = () => {
     setActiveIndexes(newIndex);
   };
 
+  const getEraColor = (year) => {
+    if (year <= 600) {
+      return '#eae4e6'; // Light Blue for Ancient Era
+    } else if (year <= 1490) {
+      return '#d6c9ca'; // Light Gray for Medieval Era
+    } else if (year <= 1877) {
+      return '#eae4e6'; // Light Pink for Modern Era
+    } else {
+      return '#d6c9ca'; // Light Green for Contemporary Era
+    }
+  };//Era1490,1877
+  
   return (
     <Accordion styled fluid>
       {accordionData.map((section, index) => (
@@ -35,17 +47,18 @@ const AccordionExample = () => {
             active={activeIndexes.includes(index)}
             index={index}
             onClick={handleClick}
+            style={{ backgroundColor: getEraColor(parseInt(section.title)) }} // Apply background color here
           >
             <div style={{ display: 'flex', justifyContent: 'center' }}>
-              <div style={{ display: 'grid', gridTemplateColumns: '2in 2in 4in', gap: '20ch' }}>
-                <div>{section.subtitle}</div>
-                <div>{section.title}</div>
-                <div>{section.fields}</div> {/* Add the new field here */}
+              <div style={{ display: 'grid', gridTemplateColumns: '3in 2in 5.5in', gap: '5ch' }}>
+                <div style={{ fontSize: '20px' }}>{section.subtitle}</div>
+                <div style={{ fontSize: '20px' }}>{section.title}</div>
+                <div style={{ fontSize: '20px' }}>{section.fields}</div> {/* Add the new field here */}
               </div>
             </div>
           </Accordion.Title>
           <Accordion.Content active={activeIndexes.includes(index)}>
-          <p style={{ margin: '20px' }}>{section.content}</p> {/* Add margins and padding here */}
+            <p style={{ margin: '22px', fontSize: '20px' }}>{section.content}</p> {/* Add margins and padding here */}
             <div style={{ display: 'flex', justifyContent: 'space-around' }}>
               {section.imageUrls.map((url, imgIndex) => (
                 <img key={imgIndex} src={url} alt={`Section ${index} content`} style={{ width: '30%' }} />

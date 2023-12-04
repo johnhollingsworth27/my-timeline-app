@@ -1,0 +1,303 @@
+[
+    {
+        "title": "Pythagoras",
+        "subtitle": "550 - 500 bce",
+        "description": "Pythagoras is credited with discovering the mathematical ratios that correspond to musical intervals, laying the groundwork for the study of acoustics. His geometric work included studies on polygons, proportions, figures, and the Pythagorean Theorem.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagoras.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Democritus",
+        "subtitle": "440 - 370 bce",
+        "description": "Democritus posits that everything in the universe is made up of small, indivisible particles called atoms",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/democritus.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Aristotle",
+        "subtitle": "365 - 320 bce",
+        "description": "Aristotle organized the knowledge of the physical world, including mathematical principals. He developed the syllogism, a form of logical argument that became fundamental to mathematical reasoning.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/aristotle.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Euclid",
+        "subtitle": "300 bce",
+        "description": "Euclid publishes \"Elements\", serving as the main textbook for teaching mathematics, especially geometry, until the early 20th century. He also lays the foundation for the study of optics, which ultimately leads to a better understanding of the nature of light.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/euclid.jpeg",
+        "alt": "map background"
+    },
+    {
+        "title": "Archimedes",
+        "subtitle": "260 - 210 bce",
+        "description": "Archimedes develops methods for calculating areas and volumes, principles in fluid mechanics, concept of center of gravity, invention of Archimedes screw to raise water",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/archimedes.webp",
+        "alt": "snake"
+    },
+    {
+        "title": "Eratosthenes ",
+        "subtitle": "240 bce",
+        "description": "Eratosthenes accurately calculated the Earth\"s circumference, developed the Sieve of Eratosthenes, an algorithm for finding all prime numbers up to a specified integer, and was among the first to apply mathematical principles to map-making, coining the term \"geography\".",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/eratosthenes.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Apollonius",
+        "subtitle": "220 - 190 bce",
+        "description": "Apollonius provides geometric foundations for later work on eclipses by Johannes Kepler with his work on \"Conics\" (ellipse, parabola, hyperbola)",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/apollonius.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Hipparchus",
+        "subtitle": "170 - 130 bce",
+        "description": "Hipparchus discovers the precession of the equinoxes, and compiles the first known trigonometric table for solving triangles, founding trigonometry",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Ptolemy",
+        "subtitle": "170 ce",
+        "description": "Ptolemy published \"Algamest\", a treatise on the apparent motions of stars and planetary paths. He provided a geocentric model of the universe which dominated astronomical thought for centuries.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Diophantus ",
+        "subtitle": "220 - 270 ce",
+        "description": "Diophantus publishes \"Arithmetica\", a collection of algebraic problems dealing with polynomial equations and integer solutions. His work laid the foundations for the development of algebra and he is known as the\"father of algebra\".",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus.png",
+        "alt": "turtle"
+    },
+    {
+        "title": "Aryabhata",
+        "subtitle": "495 - 550",
+        "description": "Aryabhata publishes \"Aryabhatiya\", where he introduced the concept of zero as a number and discussed the place-value system.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/AryabhataStatue.webp",
+        "alt": "map background"
+    },
+    {
+        "title": "Al-Khwarizmi",
+        "subtitle": "820",
+        "description": "Al-Khwarizmi writes \"The Compendious Book on Calculation by Completion and Balancing\", introducing the foundations of Algebra. He introduced algorithmic procedures, and the Hindu-Arabic numeral system, the global standard today for numerical representation.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/al-khwarizmi_portrait.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Alhazen",
+        "subtitle": "1021",
+        "description": "Alhazen publishes \"Book of Optics\", laying the foundation for the modern science of optics. He studied the properties of light and vision, including reflection, refraction, and the behavior of lenses. He\"s among the first to use the scientific method and empirical evidence.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/alhazen-portrait.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Omar Khayyam",
+        "subtitle": "1070",
+        "description": "Omar Khayyam publishes solutions to many cubics, with solutions limited to positive coefficients, lacking general solution",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/OmarKhayyam.webp",
+        "alt": "map background"
+    },
+    {
+        "title": "Leonardo of Pisa (Fibonacci)",
+        "subtitle": "1170 - 1250",
+        "description": "Leonardo of Pisa (Fibonacci) spreads the Hindu-Arabic numeral system in Europe and discovers the Fibonacci sequence, which has applications in various fields of science and mathematics.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/Fibonacci-leonardo-pisa.jpg",
+        "alt": "snake"
+    },
+    {
+        "title": "Luca Pacioli ",
+        "subtitle": "1494",
+        "description": "Luca Pacioli publishes \"Summa de Arithmetica\", concluding a solution to the cubic equation is impossible.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/Pacioli.jpg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Scipione del Ferro",
+        "subtitle": "1510",
+        "description": "Scipione del Ferro finds a method to reliably solve depressed cubics (a subset with no x squared term), tells no one but Antonio Maria Fior.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ScipionedelFerro.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Niccolo Fontana Tartaglia",
+        "subtitle": "1530",
+        "description": "Niccolo Fontana Tartaglia independently discovers the solution to the depressed cubic equation, publishes it in a cryptic poem.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/tartaglia.jpeg",
+        "alt": "map background"
+    },
+    {
+        "title": "Gerolamo Cardano",
+        "subtitle": "1539 - 1545",
+        "description":"Gerolamo Cardano convinces Tartaglia to share the solution to the depressed cubic. He publishes \"Ars Magna\" and extends Tartaglia\"s method to solve all types of cubics, and Lodovico Ferrari\"s solution of the quartic equation. They coin the square roots of negative numbers as \"sophistic\" numbers.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/cardano.jpg",
+        "alt": "snake"
+    },
+    {
+        "title": "Rafael Bombelli ",
+        "subtitle": "1572",
+        "description": "Rafael Bombelli publishes that these imaginary numbers are actually useful in solving cubic equations. However, these numbers are still considered imaginary.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/bombelli1.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Francis Viete",
+        "subtitle": "1591",
+        "description": "Francis Viete publishes \"In artem analyticam isagoge\", laying the foundation for algebraic notation using letters to represent known and unknown quantities.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/Francois_Viete.jpeg",
+        "alt": "map background"
+    },
+    {
+        "title": "Rene Descartes",
+        "subtitle": "1637",
+        "description":"Rene Descartes publishes \"La Geometrie\". He introduces (a, b, c, ...) to denote known quantities and (x, y, z, ...) for unknowns, and Cartesian Geometry which merged algebra and geometry by using algebraic methods to solve geometric problems.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/descartes.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Gottfried Wilhelm Leibniz ",
+        "subtitle": "1642 - 1727",
+        "description": "Gottfried Wilhelm Leibniz, along with Isaac Newton, is credited with developing calculus independently. He also made significant contributions to the field of logic and the binary number system, which is the foundation of virtually all digital computers.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/leibniz.jpg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Isaac Newton",
+        "subtitle": "1665 - 1727",
+        "description": "Isaac Newton develops calculus, formulates the three fundamental laws of motion, the law of universal gravitation, and develops a theory of color based on the observation that a prism decomposes white light into the colors of the visible spectrum.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/newton.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "John Bernoulli",
+        "subtitle": "1685 - 1748",
+        "description": "John Bernoulli introduces the term integral to describe the inverse operation of differentiation in calculus. He developed a principle that explains the behavior of fluid flow and is fundamental in aerodynamics and hydrodynamics. He was also instrumental in the early development and solutions of differential equations.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Leonhard Euler",
+        "subtitle": "1809 - 1857",
+        "description":  "Leonhard Euler developed the formula which links exponential functions to trigonometric functions and is a cornerstone in complex analysis. Euler\"s identity combines five fundamental mathematical constants in a simple equation. He developed Euler\"s method for numerically solving ordinary differential equations, discovered several theorems in geometry, the foundations of graph theory, the quadratic reciprocity law, and much more.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Augustin-Louis Cauchy ",
+        "subtitle": "1826 - 1866",
+        "description": "Augustin-Louis Cauchy established the foundations of calculus and complex analysis, introducing key concepts like Cauchy\"s Theorem, the Integral Formula, and the Convergence Test.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus.png",
+        "alt": "turtle"
+    },
+    {
+        "title": "Bernhard Riemann",
+        "subtitle": "1831 - 1879",
+        "description": "Bernhard Riemann develops Riemannian geometry, which laid the groundwork for general relativity, and for the Riemann Hypothesis, a fundamental unsolved problem in number theory.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/pythagoras.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "James Clerk Maxwell",
+        "subtitle": "1854",
+        "description": "James Clerk Maxwell formulated the classical theory of electromagnetic radiation, bringing together electricity, magnetism, and light as different manifestations of the same phenomenon.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/democritus.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "George Boole",
+        "subtitle": "1874",
+        "description": "George Boole lays the foundations for Boolean algebra, a critical component of computer science and logic.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/aristotle.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Georg Cantor",
+        "subtitle": "300 bce",
+        "description": "Georg Cantor establishes the concept of set theory. His work also led to the understanding of the concept of infinity and different types of infinities in mathematics.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/euclid.jpeg",
+        "alt": "map background"
+    },
+    {
+        "title": "Albert Einstein",
+        "subtitle": "1879 - 1955",
+        "description": "Albert Einstein developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). He developed special relativity (1905) and then general relativity (1915), which replaced Newton\"s theory of gravitation. He provided crucial evidence for quantum theory by demonstrating that light can be thought of as particles (photons) as well as waves with his work on the photoelectric effect, which laid the groundwork for quantum mechanics.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/archimedes.webp",
+        "alt": "snake"
+    },
+    {
+        "title": "John von Neumann ",
+        "subtitle": "1907 - 1960",
+        "description": "Made major contributions to a number of fields, including mathematics (set theory, functional analysis), physics (quantum mechanics, hydrodynamics, and quantum statistical mechanics), economics (game theory), computing (linear programming, self-replicating machines, stochastic computing).",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/eratosthenes.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Erwin Schrödinger",
+        "subtitle": "220 - 190 bce",
+        "description": "Formulates the Schrödinger equation, a fundamental equation in quantum mechanics. Developed wave mechanics, an alternative formulation of quantum mechanics that describes the behavior of quantum systems using wave functions. Made significant contributions to the understanding of how the eye perceives color.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/apollonius.jpeg",
+        "alt": "turtle"
+    },
+    {
+        "title": "Alan Turing",
+        "subtitle": "1912 - 1954",
+        "description": "A pioneer in computer science, Turing is best known for the Turing machine, a model of a general-purpose computer, and for his work in breaking the Enigma code during World War II.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Kurt Gödel",
+        "subtitle": "1931",
+        "description": "Publishes his incompleteness theorems, showing inherent limitations in every non-trivial axiomatic system. His theorems had profound implications for the philosophy of mathematics and logic.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Claude Shannon ",
+        "subtitle": "1948",
+        "description": "Publishes \"A Mathematical Theory of Communication\", laying the groundwork for information theory. Introduced key concepts such as the bit, entropy, and redundancy in communication.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus.png",
+        "alt": "turtle"
+    },
+    {
+        "title": "John Nash",
+        "subtitle": "1950 - 2000",
+        "description": "Develops the Nash Equilibrium, a concept in game theory. Made contributions to the theory of nonlinear partial differential equations and singularities in differential geometry.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Benjamin Mandelbrot",
+        "subtitle": "1950 - 2000",
+        "description": "Discovers the Mandelbrot set and coins the term \"fractal\" to describe these complex geometric shapes that repeat at every scale.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Edward Witten",
+        "subtitle": "1951",
+        "description": "Helped in the development of M-theory, an advanced theory in physics. Contributed to quantum field theory, supersymmetry, and quantum gravity.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus.png",
+        "alt": "turtle"
+    },
+    {
+        "title": "Grigori Perelman",
+        "subtitle": "1966",
+        "description": "Provides proof for Poincare conjecture in the field of topology. Utilized Ricci flow in his work.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/hipparchus.jpg",
+        "alt": "map background"
+    },
+    {
+        "title": "Terence Tao",
+        "subtitle": "1975",
+        "description": "Co-authored the Green-Tao theorem, stating that there are arbitrarily long arithmetic progressions of prime numbers. Contributed to various fields, including number theory, combinatorics, and partial differential equations.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/ptolemy.jpeg",
+        "alt": "snake"
+    },
+    {
+        "title": "Andrew Wiles",
+        "subtitle": "1994",
+        "description": "Proved Fermat\"s last theorem. His proof linked modular forms and elliptic curves, contributing to the field of number theory.",
+        "image": "https://math-data.s3.us-east-2.amazonaws.com/Math/diophantus.png",
+        "alt": "turtle"
+    }
+]

@@ -18,6 +18,7 @@ const ClassicalAntiquity = () => {
                     <br />
                 </div>
             </div>
+            
         </>
     );
 };

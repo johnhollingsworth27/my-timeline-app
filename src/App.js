@@ -47,6 +47,9 @@ import Europe from './Components/Pages/Geographical/Europe';
 import Philosophy from './Components/Pages/Thematic/Cultural/Philosophy';
 import HistoryMath from './Components/Pages/Thematic/Scientific/HistoryMath';
 import Footer from './Components/Footer';
+import ChronologicalPage from './Components/Pages/Chronological/Chronological';
+import PoliticalGrid from './Components/PoliticalChart';
+
 const App = () => {
   return (
     <>
@@ -61,6 +64,7 @@ const App = () => {
           <Route path="scientistsInventors" index element={<ScientistsInventors />} />
           <Route path="philoThinkers" index element={<PhilosophersThinkers />} />
 
+          <Route path="chronological" index element={<ChronologicalPage />} />
           <Route path="classicalAntiquity" index element={<ClassicalAntiquity />} />
           <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
           <Route path="earlyCivilizations" index element={<EarlyCivilizations />} />
@@ -103,6 +107,7 @@ const App = () => {
           <Route path="humanImpact" index element={<HumanImpact />} />
           <Route path="naturalDisasters" index element={<NaturalDisasters />} />
 
+          <Route path="political" index element={<PoliticalGrid />} />
           <Route path="empiresKingdoms" index element={<EmpiresKingdoms />} />
           <Route path="treatiesDiplomacy" index element={<TreatiesDiplomacy />} />
           <Route path="warsConflicts" index element={<WarsConflicts />} />
